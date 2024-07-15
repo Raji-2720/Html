@@ -1,0 +1,32 @@
+p{
+    float:left;
+    width: 30%;
+
+}
+h1{
+    float: right;
+    background-color:burlywood;
+    box-sizing: 40px 50px;
+    width: 30%;
+}
+h2{
+    width: 100px;
+    height: 150px;
+    background-color: blueviolet;
+    position: fixed;
+}   
+h3{
+    width: 100px;
+    height: 150px;
+    background-color:cadetblue;
+    position: absolute;
+    left:40px;
+    top:40px;
+    opacity: 0.5;
+   
+}
+img{
+    width: 100px;
+    height: 150px;
+
+}

@@ -1,0 +1,43 @@
+div{
+    color:aqua;
+    letter-spacing: 3px;
+    word-spacing: 2px;
+    line-height: 60px;
+    text-align: justify;
+    text-decoration: underline;
+    text-indent: 40px;
+    text-transform: lowercase;
+}
+div{
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: normal;
+    font-size:30px;
+    font-family: "Playwrite ES Deco", cursive;
+}
+h1,h2{
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: normal;
+    font-size:30px;
+    font-family: "Playwrite ES Deco", cursive;
+    color:brown;
+
+}
+p{
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: normal;
+    font-size:30px;
+    font-family: "Playwrite ES Deco", cursive;
+    color:cadetblue;
+
+
+}
+ul{
+    list-style-image: url("/funny\ face.jpg");
+   
+}
+ul,li{
+    background-size: 10px;
+}

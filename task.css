@@ -1,0 +1,117 @@
+body{
+    background-image: url("/bg\ book.jpg");
+    background-repeat: no-repeat;
+    background-size: 100% 800px;
+}
+h1,p{
+    text-align: center;
+    color:whitesmoke;
+    
+}
+.ant{
+    height: 180px;
+    width: 180px;
+    
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    margin-left: 140px;
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+}
+.mat{
+    height: 180px;
+    width: 180px;
+    float: left;
+    padding-bottom: 40px;
+    margin-top: -249px;
+    margin-right: 290px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    margin-left: 480px;
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+}
+.psy{
+    height: 180px;
+    width: 180px;
+    float: right;
+    padding-bottom: 40px;
+    margin-top: -249px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    margin-left: 50%;
+    margin-right: 260px;
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+
+}
+.pro{
+    height: 180px;
+    width: 180px;
+    float:right;
+    margin-top: -249px;
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    margin-left: 540px;
+    margin-right: 550px;
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+}
+.cop{
+    height: 180px;
+    width: 180px;
+    float: left;
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    margin-left: 140px;
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+}
+.eco{
+    height: 180px;
+    width: 180px;
+    float: right;
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    
+    margin-right: 260px;
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+}
+.phy{
+    height: 180px;
+    width: 180px;
+    float: right;
+    margin-top: 0px;
+    margin-right: 110px;
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+}
+.des{
+    height: 180px;
+    width: 180px;
+    float:left;
+    margin-top: 0px;
+    padding-bottom: 40px;
+    background-color: whitesmoke;
+    margin-bottom: 30px;
+    margin-left: 160px;
+    text-align:center;
+    color: #317EA9;
+    font-size: 18px;
+}

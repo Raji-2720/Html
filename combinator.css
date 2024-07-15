@@ -1,0 +1,12 @@
+div ~ p{
+    background-color:aquamarine;  /*sibling(p),parent(div),sibling-->div ku nxt irukura elements ellam*/
+}
+div+p{
+    background-color: yellow; /*adjacent ..div ku nxt ulla one line only*/
+}
+div>h1{
+    background-color: blue;/*child...div kulla kura elements ku apply agum..parent(div),child (h1)*/
+}
+div h3{
+    background-color: burlywood;/*descendant selector*/
+}

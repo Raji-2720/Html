@@ -1,0 +1,26 @@
+p::first-line{
+    color: red;
+
+}
+p::first-letter{
+    font-size: 100px;
+}
+h1::before{
+    content: url("/bg.webp");
+}
+h2::after{
+    content: url("/desiging.webp");
+    background-size: 40px 40px;
+    
+}
+::marker{
+    color:red;  /* used for list*/
+
+}
+::selection{
+    color:red;
+    background: blue;
+}
+.cls::after{
+    content: url("/copywriter.jpg");
+}

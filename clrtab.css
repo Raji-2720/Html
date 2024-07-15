@@ -1,0 +1,60 @@
+table,tr,td{
+    border: 3px solid black;
+    border-collapse: collapse;
+  
+    
+}
+.one{
+    background-color: red;
+}
+.two{
+    background-color:#FFC000;
+}
+.three{
+    background-color: yellow;
+}
+.four{
+    background-color:green;
+}
+.five{
+    background-color: skyblue;
+}
+.six{
+    background-color: blue;
+}
+.seven{
+    background-color:blueviolet;
+}
+.eight{
+    background-color:red ;
+}
+.nine{
+    background-color: #FFC000;
+}
+.ten{
+    background-color: yellow;
+}
+.eleven{
+    background-color:green ;
+}
+.twelve{
+    background-color: skyblue;
+}
+.thirdeen{
+    background-color:blue ;
+}
+.fourteen{
+    background-color: blueviolet;
+}
+.fifteen{
+    background-color: red;
+}
+.sixteen{
+    background-color: #FFC000;
+}
+.seventeen{
+    background-color: yellow;
+}
+.eighteen{
+    background-color: green;
+}

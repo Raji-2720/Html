@@ -1,0 +1,51 @@
+
+table,td,tr{
+    border-collapse: collapse;
+    border: 6px solid red;
+    font-size: larger;
+    font-weight: bolder;
+    background-repeat: no-repeat;
+    padding:10px;
+
+
+}
+#feeling{
+    background-image: url("/feeling\ humble.jpg");
+    height: 150px;
+    width: 150px;
+}
+#shocking{
+    background-image: url("/w&h.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#calm{
+    background-image: url("/w&h3.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#excited{
+    background-image: url("/excited\ emoji.jpg");
+    height: 150px;
+    width: 150px;
+}
+#funny{
+    background-image: url("/funny\ emoji.jpg");
+    height: 150px;
+    width: 150px;
+}
+#laughing{
+    background-image: url("/w&h2.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#smiley{
+    background-image: url("/smiley\ emoji.jpg");
+    height: 150px;
+    width: 150px;
+}
+#face{
+    background-image: url("/funny\ face.jpg");
+    height: 150px;
+    width: 150px;
+}

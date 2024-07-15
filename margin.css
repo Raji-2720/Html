@@ -1,0 +1,19 @@
+p{
+    margin:100px 100px;
+    padding:100px;
+    padding-left: 560px;
+    background-color: black;
+    border-top: 6px dashed greenyellow;
+    border-right: 6px dotted green;
+    border-bottom: 6px dashed greenyellow;
+    border-left: 6px dotted green;
+    color: whitesmoke;
+    font-size: 30px;
+}
+#lo{
+    height: 20px;
+    width: 20px;
+    padding:10px;
+    box-sizing: border-box;
+    box-sizing: content-box;
+}

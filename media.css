@@ -1,0 +1,65 @@
+.top{
+    background-image:url("/nature\ sea\ img.jpg");
+    border: 3px solid;
+    margin: 36px;
+    display: flex;
+    height: 500px;
+}
+.t1,.t2,.t3,.t4
+    {
+        border: 6px solid aqua;
+        background-color: red;
+        width: 100px;
+        height: 63px;
+        margin-left: 163px;
+        color: white;
+        margin-top: 50px;
+    }
+
+
+
+
+@media only screen and (min-width:320px) and (max-width:768px) {
+    .t1,.t2,.t3,.t4
+    {
+        border: 6px solid aqua;
+        background-color: red;
+        width: 100px;
+        height: 63px;
+        margin-left: 3px;
+        color: white;
+        margin-top: 50px;
+    }
+    .top{
+        background-image:url("/nature\ sea\ img.jpg");
+    
+        border: 3px solid;
+        margin: 36px;
+        display: flex;
+        height: 500px;
+    }
+    
+}
+@media only screen and (min-width:1024px) and (max-width:1440px){
+    .t1,.t2,.t3,.t4
+    {
+        border: 6px solid aqua;
+        background-color: red;
+        background-size: 200px 100px;
+        width: 100px;
+        height: 63px;
+        margin-left: 163px;
+        color: white;
+        margin-top: 50px;
+    }
+    .top{
+        background-image:url("/nature\ sea\ img.jpg");
+        background-repeat: no-repeat;
+        
+        border: 3px solid;
+        margin: 36px;
+        display: flex;
+        height: 500px;
+    }
+
+}
